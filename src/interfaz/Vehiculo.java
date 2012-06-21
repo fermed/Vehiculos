@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Pussy
+ * @author Pussy2
  */
 public class Vehiculo {
     
